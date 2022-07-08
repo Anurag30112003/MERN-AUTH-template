@@ -1,3 +1,5 @@
+# Mern auth template
+
 # Installing Dep
     npm i
     cd frontend
